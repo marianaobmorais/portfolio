@@ -1,4 +1,4 @@
-# Mariana's Portfolio
+# 🗃️ Mariana's Portfolio
 
 Welcome to my Data Analytics portfolio!  
 
