@@ -1,6 +1,6 @@
 # 🗃️ Mariana's Portfolio
 
-Welcome to my Data Analytics portfolio 👋
+Welcome to my portfolio 👋
 
 ### 📓 Data Analytics Projects
 
