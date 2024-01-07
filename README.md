@@ -2,7 +2,7 @@
 
 Welcome to my Data Analytics portfolio 👋
 
-### 📓 Projects
+### 📓 Data Analytics Projects
 
 |Project link | Tools | Notions | Description|
 |---|---|---|---|
