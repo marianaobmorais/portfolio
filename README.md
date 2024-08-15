@@ -1,6 +1,7 @@
 # 🗃️ Mariana's Portfolio
 
 Welcome to my portfolio 👋  
+
 Here you will find the projects developed during the 42 Common Core as well as a selection of Data Analytics case studies.
 
 ---
@@ -10,10 +11,11 @@ Here you will find the projects developed during the 42 Common Core as well as a
 |Project link | Tools | Notions | Description|
 |---|---|---|---|
 | **RANK 02** |
-|[pipex]()| C language, Makefile | Redirections and Pipes, UNIX processes | This is an introductory project for the bigger UNIX projects later in the cursus. |
-|[so_long](https://github.com/marianaobmorais/so_long)| C language, Minilibx, Makefile | Graphic library, textures, sprites and tiles | This is a dungeon-crawler-like 2D game. |
+|[pipex](https://github.com/marianaobmorais/pipex)| C language, Makefile | Redirections and Pipes, UNIX processes | This is an introductory project for the bigger UNIX projects later in the cursus. |
+|[so_long](https://github.com/marianaobmorais/so_long)| C language, Minilibx, Makefile | Graphics in C, Textures and sprites  | This is a dungeon-crawler-like 2D game. |
 |[push_swap](https://github.com/marianaobmorais/push_swap)| C language, Makefile | Sorting algorithms, Algorithm implementation, Optimized data sorting | This project involves sorting data on a stack, with the smallest number of moves and with a limited set of operations. |
 | **RANK 01** |
+|[borntoberoot](https://github.com/marianaobmorais/borntoberoot)| Debian OS, Oracle VirtualBox, Shell scripting | Network, System administration, Virtualization | This project task is to set up a machine in a VirtualBox under specific instructions. |
 |[get_next_line](https://github.com/marianaobmorais/get_next_line)| C language | Read function, File Descriptors | This project objective is to write a function to read content, line by line from diverse File Descriptors |
 |[ft_printf](https://github.com/marianaobmorais/ft_printf)| C language, Makefile | Variadic functions implementation | This project objective is to recode printf function, to added to my C library libft. |
 | **RANK 00** |
