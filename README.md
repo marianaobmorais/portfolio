@@ -17,7 +17,7 @@ Here you will find the projects developed during the 42 Common Core as well as a
 | **RANK 01** |
 |[borntoberoot](https://github.com/marianaobmorais/borntoberoot)| Debian OS, Oracle VirtualBox, Shell scripting | Network, System administration, Virtualization | This project task is to set up a machine in a VirtualBox under specific instructions. |
 |[get_next_line](https://github.com/marianaobmorais/get_next_line)| C language | Read function, File Descriptors | This project objective is to write a function to read content, line by line from diverse File Descriptors |
-|[ft_printf](https://github.com/marianaobmorais/ft_printf)| C language, Makefile | Variadic functions implementation | This project objective is to recode printf function, to added to my C library libft. |
+|[ft_printf](https://github.com/marianaobmorais/ft_printf)| C language, Makefile | Variadic functions implementation | This project objective is to recode printf function. |
 | **RANK 00** |
 |[libft](https://github.com/marianaobmorais/libft)| C language, Makefile | Static library, Makefile | This project task was to recode some functions of the C standard library as well as some other utility functions that will be used during your whole 42 cursus. |
 
