@@ -13,7 +13,7 @@ Here you will find the projects developed during the 42 Common Core as well as a
 | **RANK 03** |
 |[philosophers](https://github.com/marianaobmorais/philosophers)| C language, Makefile | Concurrent programming, Multithreading, Multiprocessing, Mutexes, Semaphores | This project encompasses the basics of threading a UNIX process |
 | **RANK 02** |
-|[pipex](https://github.com/marianaobmorais/pipex)| C language, Makefile | Redirections and Pipes, UNIX processes | This is an introductory project for the bigger UNIX projects later in the cursus |
+|[pipex](https://github.com/marianaobmorais/pipex)| C language, Makefile | Redirections and Pipes, UNIX processes, Heredoc | This is an introductory project for the bigger UNIX projects later in the cursus |
 |[so_long](https://github.com/marianaobmorais/so_long)| C language, Minilibx, Makefile | Graphics in C, Textures and sprites  | This is a dungeon-crawler-like 2D game |
 |[push_swap](https://github.com/marianaobmorais/push_swap)| C language, Makefile | Sorting algorithms, Algorithm implementation, Optimized data sorting | This project involves sorting data on a stack, with the smallest number of moves and with a limited set of operations |
 | **RANK 01** |
