@@ -11,6 +11,7 @@ Here you will find the projects developed during the 42 Common Core as well as a
 |Project link | Tools | Notions | Description|
 |---|---|---|---|
 | **RANK 03** |
+|[minishell](https://github.com/marianaobmorais/minishell)| SOON | SOON | SOON |
 |[philosophers](https://github.com/marianaobmorais/philosophers)| C language, Makefile | Concurrent programming, Multithreading, Multiprocessing, Mutexes, Semaphores | This project encompasses the basics of threading a UNIX process |
 | **RANK 02** |
 |[pipex](https://github.com/marianaobmorais/pipex)| C language, Makefile | Redirections and Pipes, UNIX processes, Heredoc | This is an introductory project for the bigger UNIX projects later in the cursus |
