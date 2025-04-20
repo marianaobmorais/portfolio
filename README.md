@@ -10,6 +10,8 @@ Here you will find the projects developed during the 42 Common Core as well as a
 
 |Project link | Tools | Notions | Description|
 |---|---|---|---|
+| **RANK 04** |
+|[cub3D](https://github.com/marianaobmorais/cub3d)| C language, Minilibx, Makefile | Graphics in C, Textures, sprites, Raycasting engine | This project is inspired by the world-famous Wolfsteind 3D game, where we recreated the dynamic view inside a maze with sprites, minimap and moving doors. Done in partnership with [José Júnior](https://github.com/joseevilasio) | 
 | **RANK 03** |
 |[minishell](https://github.com/marianaobmorais/minishell)| C language, Makefile | Command Line Interface, Tokenization, Abstract Syntax Tree, UNIX processes, File Descriptors, Redirections, Pipes, Heredoc | This project objective is to create a simplified version of Bourne-Again Shell (Bash). Done in partnership with [José Júnior](https://github.com/joseevilasio) |
 |[philosophers](https://github.com/marianaobmorais/philosophers)| C language, Makefile | Concurrent programming, Multithreading, Multiprocessing, Mutexes, Semaphores | This project encompasses the basics of threading a UNIX process |
